@@ -1,5 +1,5 @@
 # Multithreaded_TCPServer
-A basic TCP multithreaded server class implemented in c++ using winsock
+A basic TCP multithreaded server class designed in c++ using winsock
 ___________________
 
 INSTRUCTION FOR USE
